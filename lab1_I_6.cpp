@@ -9,6 +9,7 @@ int main () {
         sum+=x;
     }
 
+    cout<<sum;
 
     return 0;
 }
