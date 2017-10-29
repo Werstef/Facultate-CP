@@ -1,0 +1,7 @@
+a--39, de la 1 la 39 sunt 39 de numere.
+
+b-- 14, deoarece 40-1=39, 39/3= 13 +1 un * de la i=1;
+
+c--infinit, i o sa treaca doar prin numere impare, fiind de forma 2n+1, nu ajunge sa fie 40 => conditia e mereu adevarata
+
+d--un * pt i=1, 16 pt i=16, 31 pt i=31 => 1+16+31=48
