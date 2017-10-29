@@ -1,5 +1,5 @@
 #include <iostream>
-#define swap(T,X,Y)  T aux X, X=Y , X=aux
+#define swap(T,X,Y)  T aux=X, X=Y , X=aux
 #define multiply(X,Y) X*Y
 using namespace std;
 
@@ -13,7 +13,6 @@ int main () {
 
     cout<<a<<" "<<b<<"\n";
 
-    multiply(a,b);
-    cout<<a<<" "<<b;
+    cout<<multiply(a,b);
     return 0;
 }
